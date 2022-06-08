@@ -1,0 +1,16 @@
+**Saved/
+**Intermediate/
+**vs/
+**Binaries/
+**Build/
+**bin/
+**obj/
+
+*.user
+*.fbx
+*.png
+*.TGA
+*.psd
+/Client/Plugins/AutoSizeComments/ASCCache
+/Client/Plugins/BlueprintAssist/NodeSizeCache
+/Client/DerivedDataCache
